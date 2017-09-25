@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML>
 <html>
 	<head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -31,26 +31,26 @@
 	
 		<section id="main" class="wrapper">
 		
-		<!-- China -->	       		
-		<div class="inner">	
-			<div>
-       			<p>There are in total 34 "provinces" in China (including 4 municipalities: 
-       			Beijing, Tianjin, Shanghai, Chongqing and 2 special administrative regions: 
-       			Hong Kong and Macao). It's a pity that I haven't been to 11 of them (but
-       			I will)! I go back to Shandong during every Spring Festival since my 
-       			grandparents live there. As for Beijing, it is the city I always hope to run 
-       			away from, while I miss it most when I'm on the road <i class="em em-blush"></i>.</p>
-       		</div>
-       		<script>
-			var map;
+			<!-- China -->	       		
+			<div class="inner">	
+				<div>
+       				<p>There are in total 34 "provinces" in China (including 4 municipalities: 
+       				Beijing, Tianjin, Shanghai, Chongqing and 2 special administrative regions: 
+       				Hong Kong and Macao). It's a pity that I haven't been to 11 of them (but
+       				I will)! I go back to Shandong during every Spring Festival since my 
+       				grandparents live there. As for Beijing, it is the city I always hope to run 
+       				away from, while I miss it most when I'm on the road <i class="em em-blush"></i>.
+       				</p>
+       			</div>
+       			<script>
+					var map;
 
-			AmCharts.ready(function() {
-			    map = new AmCharts.AmMap();
-			    map.colorSteps = 10;
+					AmCharts.ready(function() {
+			    	map = new AmCharts.AmMap();
+			    	map.colorSteps = 10;
 
-			    var dataProvider = {
+			    	var dataProvider = {
 			        mapVar: AmCharts.maps.chinaLow,
-
 			        areas: [
 						/*
 			        {//Anhui
@@ -168,46 +168,48 @@
 					{//Zhejiang
 						id: "CN-33",
 						value: 10}
-						]
-						
-			    };
+						]						
+			    	};
 
-			    map.areasSettings = {
+			    	map.areasSettings = {
 			        autoZoom: true
-			    };
-			    map.dataProvider = dataProvider;
+			    	};
+			    	map.dataProvider = dataProvider;
 
-			    var valueLegend = new AmCharts.ValueLegend();
-			    valueLegend.right = 10;
-			    valueLegend.minValue = "little";
-			    valueLegend.maxValue = "a lot!";
-			    map.valueLegend = valueLegend;
+			    	var valueLegend = new AmCharts.ValueLegend();
+			    	valueLegend.right = 10;
+			    	valueLegend.minValue = "little";
+			    	valueLegend.maxValue = "a lot!";
+			    	map.valueLegend = valueLegend;
 
-			    map.write("mapdiv");
-			});
-		</script>
-		<div id="mapdiv" style="width: 100%; background-color:#EEEEEE; height: 500px;">
-		</div>
-		</div>
-		
-		<!-- World -->			
+			    	map.write("mapdiv");
+					});
+				</script>
 				
-				<div class="inner">	
-       <div>
-       <br />
-       <br />
-       	<p>I am always excited about exploring new places. and I like Astronomy for potential
-       	 opportunities to travel all over the world <i class="em em-sunglasses"></i>.</p>
-       </div>
-        <script>
-			var map;
+				<div id="mapdiv" style="width: 100%; background-color:#EEEEEE; height: 500px;">
+				</div>
+			</div>
+		
+			<!-- World -->						
+			<div class="inner">	
+       			<div>
+       				<br />
+       				<br />
+       				<p>I am always excited about exploring new places, 
+       				and I like Astronomy for potential
+       	 			opportunities to travel all over the world <i class="em em-sunglasses"></i>.
+       	 			</p>
+       			</div>
+        		
+        		<script>
+					var map;
 
-			AmCharts.ready(function() {
-			    map = new AmCharts.AmMap();
-				map.theme = "light";
-			    map.colorSteps = 10;
+					AmCharts.ready(function() {
+			    	map = new AmCharts.AmMap();
+					map.theme = "light";
+			    	map.colorSteps = 10;
 
-			    var dataProvider = {
+			    	var dataProvider = {
 			        mapVar: AmCharts.maps.worldLow,				
 			        areas: [
 						
@@ -228,27 +230,28 @@
 						value: 10}
 						]
 						
-			    };
+			    	};
 
-			    map.areasSettings = {
+			    	map.areasSettings = {
 			        autoZoom: true
-			    };
-			    map.dataProvider = dataProvider;
+			    	};
+			    	map.dataProvider = dataProvider;
 
-			    var valueLegend = new AmCharts.ValueLegend();
-			    valueLegend.right = 10;
-			    valueLegend.minValue = "little";
-			    valueLegend.maxValue = "a lot!";
-			    map.valueLegend = valueLegend;
+			    	var valueLegend = new AmCharts.ValueLegend();
+			    	valueLegend.right = 10;
+			    	valueLegend.minValue = "little";
+			    	valueLegend.maxValue = "a lot!";
+			    	map.valueLegend = valueLegend;
 
-			    map.write("mapdiv1");
-			});
-		</script>
+			    	map.write("mapdiv1");
+					});
+				</script>
     
-        <div id="mapdiv1" style="width: 100%; background-color:#EEEEEE; height: 500px;"></div>
-				</div>
+        		<div id="mapdiv1" style="width: 100%; background-color:#EEEEEE; height: 500px;">
+        		</div>
+			</div>
 								
-	</section>
+		</section>
     </body>
 		
 </html>
