@@ -1655,7 +1655,7 @@
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2, h3, h4, h5, h6, h7 {
 		color: #5385c1;
 		font-weight: 300;
 		line-height: 1.5;
@@ -1685,6 +1685,11 @@
 		font-size: 2.0em;
 		color: #ffffff;
 	}
+	
+	h7 {
+		font-size: 1.8em;
+		text-align: center；
+	}
 
 	sub {
 		font-size: 0.8em;
@@ -1699,7 +1704,7 @@
 	}
 
 	blockquote {
-		border-left: solid 4px #dbdbdb;
+		border-left: solid 4px #a3a3a3;
 		font-style: italic;
 		margin: 0 0 2em 0;
 		padding: 0.5em 0 0.5em 2em;
@@ -1708,7 +1713,7 @@
 	code {
 		background: rgba(144, 144, 144, 0.075);
 		border-radius: 0;
-		border: solid 1px #dbdbdb;
+		border: solid 1px #a3a3a3;
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
 		margin: 0 0.25em;
@@ -1731,7 +1736,7 @@
 
 	hr {
 		border: 0;
-		border-bottom: solid 1px #dbdbdb;
+		border-bottom: solid 1px #a3a3a3;
 		margin: 2em 0;
 	}
 
@@ -1922,7 +1927,7 @@
 				height: 100%;
 				right: -2em;
 				top: 0;
-				border-right: 1px solid #dbdbdb;
+				border-right: 1px solid #a3a3a3;
 				pointer-events: none;
 			}
 
@@ -2010,7 +2015,7 @@
 		background: rgba(144, 144, 144, 0.075);
 		border-radius: 0;
 		border: none;
-		border: solid 1px #dbdbdb;
+		border: solid 1px #a3a3a3;
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -2055,7 +2060,7 @@
 		}
 
 		.select-wrapper:before {
-			color: #dbdbdb;
+			color: #a3a3a3;
 			display: block;
 			height: 2.75em;
 			line-height: 2.75em;
@@ -2123,7 +2128,7 @@
 			input[type="radio"] + label:before {
 				background: rgba(144, 144, 144, 0.075);
 				border-radius: 0;
-				border: solid 1px #dbdbdb;
+				border: solid 1px #a3a3a3;
 				content: '';
 				display: inline-block;
 				height: 1.65em;
@@ -2185,7 +2190,7 @@
 /* Box */
 
 	.box {
-		border: solid 1px #dbdbdb;
+		border: solid 1px #a3a3a3;
 		margin-bottom: 2em;
 		padding: 1.5em;
 	}
@@ -2326,7 +2331,7 @@
 		}
 
 			ul.alt li {
-				border-top: solid 1px #dbdbdb;
+				border-top: solid 1px #a3a3a3;
 				padding: 0.5em 0;
 			}
 
@@ -2484,7 +2489,7 @@
 	}
 
 		table tbody tr {
-			border: solid 1px #dbdbdb;
+			border: solid 1px #a3a3a3;
 			border-left: 0;
 			border-right: 0;
 		}
@@ -3016,7 +3021,7 @@
 /* Footer */
 
 	#footer .inner {
-		border-top: 1px solid #dbdbdb;
+		border-top: 1px solid #a3a3a3;
 		padding-top: 3em;
 	}
 
