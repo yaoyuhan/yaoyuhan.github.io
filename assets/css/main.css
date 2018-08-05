@@ -1934,7 +1934,12 @@
 			.flex.flex-3 article:last-child:before {
 				border: none;
 			}
-
+		
+		.flex.flex-3 .box {
+			position: relative;
+			width: 30%;
+		}
+		
 		.flex.flex-4 .box {
 			width: 21%;
 		}
