@@ -1,0 +1,319 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Footprint - Yuhan Yao</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
+        <link rel="stylesheet" href="../ammap/ammap.css" type="text/css">
+        <script src="../ammap/ammap.js" type="text/javascript"></script>
+        <!-- map file should be included after ammap.js -->
+		<script src="../ammap/maps/js/chinaLow.js" type="text/javascript"></script>		
+   		<script src="../ammap/maps/js/worldLow.js" type="text/javascript"></script>	
+   		<script src="../ammap/themes/light.js" type="text/javascript"></script>	
+   		<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">	
+    </head>
+    
+    <body class="subpage">
+        <!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<nav id="nav">
+						<a href="../index.html">Home</a>
+						<a href="research.html">Research</a>
+						<a href="../CV/CV_YuhanYao.pdf">CV</a>
+						<a href="talks.html">Talks</a>
+						<a href="contact.html">Contact</a>
+						<a href="footprint.html">Footprints</a>
+					</nav>
+					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+				</div>
+			</header>
+	
+		<section id="main" class="wrapper">
+		
+		<!-- Personal Life -->
+			<section id="two" class="wrapper style1 special">
+				<div class="inner">
+					<header>
+						<h6>Others</h6>
+					</header>
+					
+					<div class="flex flex-3">
+						<div class="box person">
+							<div class="image round">
+								<img src="../images/pic01.jpg" alt="Person 2" />
+							</div>
+							<h3>Myself</h3>
+							<p>
+							I went to boarding schools when I was a child. At that time I liked writing funny lyrics and playing
+							the electronic piano. My interest in science was developed at Beijing No.4 High School and Peking University, 
+							where I met with inspiring teachers and excellent peers. 
+							Now, I'm a first-year grad student <a href="code_python.html">coding python</a> 
+							or writing homework for most of time,
+							but the view of the sun dipping behind the crest of the Mt. Wilson
+							makes me feel younger than any time in the past.  </p>
+						</div>
+						
+						<div>
+							<h3>Useful Links</h3>
+							<p> 
+							<a href="http://www.astro.caltech.edu/events/tea_talks/tea_2018_2019/index.php">></a> Astro Tea Talks</br>
+							<a href="http://www.astronomerstelegram.org/">></a> ATel, 
+								<a href="https://arxiv.org/list/astro-ph.HE/recent">></a> astro-ph (HE)</br>
+							</br>
+							<a href="https://www.bobdylan.com/songs/">></a> Lyrics</br>
+							</p>
+						</div>
+						
+						<div class="box person">
+							<div class="image round">
+								<img src="../images/pic04.jpg" alt="Person 2" />
+							</div>
+							<h3>Leisure</h3>
+							<p> 
+							I love swimming, and dancing (Cha-cha-cha / Rumba / Jazz). 
+							I made radio programs in PKU's Radio Station and still has 
+							a fascination for the magic of voice.
+							My favorite singers are Bob Dylan, Norah Jones and Yoga Lin. 
+							Apart from these I enjoy cooking, shopping, drinking yogurt,
+							and chatting with friends.
+							</p>
+						</div>
+						
+					</div>
+				
+				</div>
+			</section>
+			
+		
+			<!-- China -->	       		
+			<div class="inner">	
+				<div>
+       				<p>There are in total 34 "provinces" in China (including 4 municipalities: 
+       				Beijing, Tianjin, Shanghai, Chongqing and 2 special administrative regions: 
+       				Hong Kong and Macao). I was born in Harbin, a snowy city in the northeastern of China, and moved to Beijing
+					at the age of 4. I go back to Shandong during every Spring Festival since my 
+       				grandparents live there.
+       				</p>
+       			</div>
+       			<script>
+					var map;
+
+					AmCharts.ready(function() {
+			    	map = new AmCharts.AmMap();
+			    	map.colorSteps = 10;
+
+			    	var dataProvider = {
+			        mapVar: AmCharts.maps.chinaLow,
+			        areas: [
+						/*
+			        {//Anhui
+			            id: "CN-34",
+			            value: 0},
+						*/
+			        {//Beijing
+			            id: "CN-11",
+			            value: 100},
+			        {//Chongqing
+			            id: "CN-50", 
+			            value: 10},
+			        {//Fujian
+			            id: "CN-35",
+			            value: 10},
+					{//Guangdong
+			            id: "CN-44", 
+			            value: 30},						
+					{//Gansu
+			            id: "CN-62", 
+			            value: 10},
+			            /*
+					{//Guangxi Zhuang
+						id: "CN-45",
+						value: 0},
+					{//Guizhou
+						id: "CN-52",
+						value: 0},
+						*/
+					{//Hainan
+						id: "CN-46",
+						value: 10},
+					{//Hebei
+						id: "CN-13",
+						value: 50},
+					/*
+					{//Henan
+						id: "CN-41",
+						value: 0}
+					*/
+					{//Hong Kong
+						id: "CN-91",
+						value: 10},
+					{//Heilongjiang
+						id: "CN-23",
+						value: 80},
+					{//Hunan
+						id: "CN-43",
+						value: 30},
+					{//Hubei
+						id: "CN-42",
+						value: 20},
+					{//Jilin
+						id: "CN-22",
+						value: 10},
+					{//Jiangsu
+						id: "CN-32",
+						value: 40},
+						/*
+					{//Jiangxi
+						id: "CN-36",
+						value: 0}
+						*/
+					{//Liaoning
+						id: "CN-21",
+						value: 20},
+					{//Macau
+						id: "CN-92",
+						value: 10},
+						/*
+					{//Nei Mongol
+						id: "CN-15",
+						value: 0}，
+					{//Ningxia Hui
+						id: "CN-64",
+						value: 0}，
+						*/
+					{//Qinghai
+						id: "CN-63",
+						value: 20},
+						/*
+					{//Shanxi
+						id: "CN-61",
+						value: 0},
+						*/
+					{//Sichuan
+						id: "CN-51",
+						value: 60},
+					{//Shandong
+						id: "CN-37",
+						value: 70},
+					{//Shanghai
+						id: "CN-31",
+						value: 10},
+					{//Shanxi
+						id: "CN-14",
+						value: 20},
+					{//Tianjin
+						id: "CN-12",
+						value: 10},
+					{//Taiwan
+						id: "CN-71",
+						value: 20},
+						/*
+					{//Xinjing
+						id: "CN-65",
+						value: 0},
+						*/
+					{//Xizang
+						id: "CN-54",
+						value: 10},
+					{//Yunnan
+						id: "CN-53",
+						value: 20},
+					{//Zhejiang
+						id: "CN-33",
+						value: 10}
+						]						
+			    	};
+
+			    	map.areasSettings = {
+			        autoZoom: true
+			    	};
+			    	map.dataProvider = dataProvider;
+
+			    	var valueLegend = new AmCharts.ValueLegend();
+			    	valueLegend.right = 10;
+			    	valueLegend.minValue = "little";
+			    	valueLegend.maxValue = "a lot!";
+			    	map.valueLegend = valueLegend;
+
+			    	map.write("mapdiv");
+					});
+				</script>
+				
+				<div id="mapdiv" style="width: 100%; background-color:#EEEEEE; height: 500px;">
+				</div>
+			</div>
+		
+			<!-- World -->						
+			<div class="inner">	
+       			<div>
+       				<br />
+       				<br />
+       				<p>I am always excited about exploring new places, 
+       				and I like Astronomy for potential opportunities to travel around the world <i class="em em-sunglasses"></i>.
+       				<br/>
+       	 			</p>
+       			</div>
+        		
+        		<script>
+					var map;
+
+					AmCharts.ready(function() {
+			    	map = new AmCharts.AmMap();
+					map.theme = "light";
+			    	map.colorSteps = 10;
+
+			    	var dataProvider = {
+			        mapVar: AmCharts.maps.worldLow,				
+			        areas: [
+						
+					{
+						id: "US",
+						value: 40},
+					{
+						id: "CN",
+						value: 100},
+					{
+						id: "TW",
+						value: 80},
+					{
+						id: "JP",
+						value: 20},
+					{
+						id: "FR",
+						value: 10},	
+					{
+						id: "IT",
+						value: 10}
+						]
+						
+			    	};
+
+			    	map.areasSettings = {
+			        autoZoom: true
+			    	};
+			    	map.dataProvider = dataProvider;
+
+			    	var valueLegend = new AmCharts.ValueLegend();
+			    	valueLegend.right = 10;
+			    	valueLegend.minValue = "little";
+			    	valueLegend.maxValue = "a lot!";
+			    	map.valueLegend = valueLegend;
+
+			    	map.write("mapdiv1");
+					});
+				</script>
+    
+        		<div id="mapdiv1" style="width: 100%; background-color:#EEEEEE; height: 500px;">
+        		</div>
+			</div>
+			
+			<p></p>
+			<p></p>
+
+								
+		</section>
+    </body>
+		
+</html>

@@ -1589,7 +1589,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #9a9a9a;
+		color: #515151;
 		font-family: "Raleway", Arial, Helvetica, sans-serif;
 		font-size: 13pt;
 		font-weight: 300;
@@ -1641,6 +1641,12 @@
 		text-decoration: underline;
 		font-size: 1.1em;
 	}
+	
+	a2 {
+		color: #515151;
+		text-decoration: underline;
+		font-size: 1.1em;
+	}
 
 	strong, b {
 		color: #555;
@@ -1653,6 +1659,11 @@
 
 	p {
 		margin: 0 0 2em 0;
+	}
+	
+	p2 {
+		margin: 0 0 2em 0;
+		text-align: center;
 	}
 
 	h1, h2, h3, h4, h5, h6, h7 {
@@ -1689,6 +1700,15 @@
 	h7 {
 		font-size: 1.8em;
 		text-align: center；
+	}
+	
+	h8 {
+		font-size: 1.2em;
+		text-align: center；
+		color: #515151;
+		font-weight: 300;
+		line-height: 1.5;
+		margin: 0 0 1em 0;
 	}
 
 	sub {
@@ -1788,7 +1808,7 @@
 		}
 		
 		section.special a {
-			color: #9a9a9a;
+			color: #515151;
 			font-size: 1em;
 		}
 
@@ -1805,8 +1825,9 @@
 				margin: 0 0 .5em 0;
 			}
 
-			section.wrapper header p, article.wrapper header p {
-				font-size: 1em;
+			section.wrapper header p2, article.wrapper header p2 {
+				font-size: 1.2em;
+				text-align: center
 			}
 
 		section.wrapper article header, article.wrapper article header {
@@ -1814,7 +1835,7 @@
 		}
 
 		section.wrapper.style1, article.wrapper.style1 {
-			background: #5385c1;
+			background: #33ccff;
 			color: #bacee6;
 		}
 
@@ -1867,7 +1888,7 @@
 		}
 
 	header p {
-		color: #bbb;
+		color: #515151;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -3025,7 +3046,7 @@
 		
 /* Footer */
 
-	#footer .inner {
+#footer .inner {
 		border-top: 1px solid #a3a3a3;
 		padding-top: 3em;
 	}
