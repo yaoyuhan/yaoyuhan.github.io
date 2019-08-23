@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in the UC Berkeley [Department of Astronomy](https://astro.berkeley.edu/) I use supercomputer simulations and data from big telescopes to better understand how the universe works. 
+I'm a Ph.D. student in the UC Berkeley [Department of Astronomy](https://astro.berkeley.edu/) I use supercomputer simulations and data from big telescopes to try to better understand how the universe works. 
 
 My speciality is galaxy formation, with a focus on low-mass galaxies. I'm also interested in binary stars, Milky Way stellar populations, and more generally, in developing new methods to extract information from data. My advisors are [Eliot Quataert](http://w.astro.berkeley.edu/~eliot/) and [Dan Weisz](http://dweisz.github.io/).
 
