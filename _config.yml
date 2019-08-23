@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kareem El-Badry"
-  avatar           : "Kareem_picture.jpg"
+  avatar           : "files/Kareem_picture.jpg"
   bio              : "Astrophysicist at UC Berkeley."
   location         : "Berkeley, CA"
   employer         :
