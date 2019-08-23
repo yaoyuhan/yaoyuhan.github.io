@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kareem El-Badry"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Kareem El-Badry"
 description              : &description "Astrophysicist at UC Berkeley"
