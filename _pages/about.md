@@ -17,8 +17,8 @@ I was an undergrad at [Yale University](https://astronomy.yale.edu/), where I wo
 
 Contact Me
 ======
-email: kelbadry{at}berkeley{dot}edu 
-skype: kareemelbadry1 
+email: kelbadry@berkeley.edu \\
+skype: kareemelbadry1 \\
 office: 407 Campbell Hall, Berkeley, CA 94720
 
 Getting started
