@@ -7,12 +7,13 @@ redirect_from:
   - /resume
 ---
 
-<span style="color:#5DADE2">[My CV (last updated August 23, 2019)](https://kareemelbadry.github.io/files/El_Badry_Kareem_CV.pdf)</span>
-
 Education
 ======
 * B.S. in Astrophysics, Yale University, 2016
 * M.S. in Astrophysics, UC Berkeley, 2018
 * Ph.D in Astrophysics, UC Berkeley, 2021 (expected)
+
+<span style="color:#5DADE2">[My full CV (last updated August 23, 2019)](https://kareemelbadry.github.io/files/El_Badry_Kareem_CV.pdf)</span>
+
 
 
