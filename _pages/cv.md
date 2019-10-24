@@ -13,7 +13,7 @@ Education
 * M.S. in Astrophysics, UC Berkeley, 2018
 * Ph.D in Astrophysics, UC Berkeley, 2021 (expected)
 
-<span style="color:#5DADE2">[My full CV (last updated August 23, 2019)](https://kareemelbadry.github.io/files/El_Badry_Kareem_CV.pdf)</span>
+<span style="color:#5DADE2">[My full CV (last updated October, 2019)](https://kareemelbadry.github.io/files/El_Badry_Kareem_CV.pdf)</span>
 
 
 
