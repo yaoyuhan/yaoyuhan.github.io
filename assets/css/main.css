@@ -1672,6 +1672,10 @@
 		line-height: 1.5;
 		margin: 0 0 1em 0;
 	}
+	
+	h1 {
+		font-size: 1.1em;
+	}
 
 	h2 {
 		font-size: 1.35em;
@@ -1933,7 +1937,7 @@
 	}
 
 		.flex.flex-2 article {
-			width: 47%;
+			width: 40%;
 		}
 
 		.flex.flex-3 article {
