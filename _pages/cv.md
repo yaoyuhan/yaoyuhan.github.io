@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-Education
-======
 * B.S. in Astrophysics, Yale University, 2016
 * M.S. in Astrophysics, UC Berkeley, 2018
 * Ph.D in Astrophysics, UC Berkeley, 2021 (expected)
