@@ -18,7 +18,10 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
-	
+
+	p + ul {
+ 	   margin-top: -25px;
+	}	
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
