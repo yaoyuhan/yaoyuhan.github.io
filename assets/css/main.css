@@ -2762,7 +2762,7 @@
 		.subpage #header {
 			background: #5385c1;
 			top: 0;
-			height: 44px;
+			height: 65px;
 			line-height: 44px;
 			position: fixed;
 		}
@@ -2770,7 +2770,7 @@
 	#header {
 		color: #d4e0ef;
 		cursor: default;
-		height: 3.25em;
+		height: 3.75em;
 		left: 0;
 		line-height: 3.25em;
 		position: absolute;

@@ -7,24 +7,106 @@
 		<link rel="stylesheet" href="../assets/css/main.css" />
 	</head>
 	
+
+<style>    
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #5385c1;
+  padding: 0.5em 1.25em;
+    float: right;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: -2px 10px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: #515151;
+  padding: -2px 5px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0px;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  color: #515151;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.0);
+  z-index: 1;
+ }
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+</style>
+	
 	<body class="subpage">
 	
 		<!-- Header -->
 			<header id="header">
-				<div class="inner">
-					<nav id="nav">
-						<a href="../index.html">Home</a>
-						<a href="research.html">Research</a>
-						<a href="talks.html">Talks</a>
-						<a href="publications.html">Publications</a>
-					</nav>
-					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
-				</div>
-			</header>
+			<div class="inner">
+<div class="navbar">
+  <a href="../index.html">Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">Research      
+    <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#ztf_sn">Supernova Studies with ZTF</a>
+      <a href="#ulx_model">Super-Eddington Accretion Wind Model</a>
+      <a href="#insync">Evolution of Primordial Disks</a>
+      <a href="#mira">Mira Variables with LAMOST</a>
+      <a href="#qso_m31">Quasars Behind M31 &nbsp</a>
+    </div>
+  </div> 
+<a href="talks.html">Talks</a>
+<a href="publications.html">Publications</a>
+</div>			
+
+</div>
+</header>
 			
 		<!-- Main -->
 		<section id="main" class="wrapper">
-			<div class="inner">
+			<div class="inner" >
 					<header class="align-center">
 						<h5>Research</h5>
 						<p></p>
@@ -33,30 +115,43 @@
 					</header>
 					
 			<!-- Content -->
-				<h2 id="content">Science with the Zwicky Transient Facility</h2>
+				<div id="ztf_sn"><h2 id="content">Supernova Science with the Zwicky Transient Facility</h2></div>
 				<div class="row">
 					<div class="6u 12u$(small)">
-							<p>Observations of Type Ia supernovae (SNe Ia) in a few hours and days after explosion play an important role in 
+						<b>Thermonuclear Explosions</b>
+							<p>
+							Observations of Type Ia supernovae (SNe Ia) in a few hours and days after explosion play an important role in 
 							addressing the long-standing issues about the explosion mechanisms of SNe Ia.  
 							The Zwicky Transient Facility (ZTF) is delivering high quality high-cadence (3g + 3r every night)
 							light curves with color information. 
 							This sample (light curves shown in the right figure) is
 							extending previous single-object analyses to a large sample of infant SNe Ia. I developed a tool to perform 
 							forced-PSF photometry to generate high-quality light curves, which is essential to constrain the first-light epoch..</p>
-							<p>Galactic science: work in progress...</p>
+						<b>Core-Collapse Explosions</b>
+							<p>Type Ibc supernovae (SNe Ibc) are believed to be explosions of massive stars that have lost their hydrogen envelopes.
+							Those with the lowest ejecta mass arise from core-collapse of a stellar core with a small envelope. 
+							This can occur in tight binaries in which a helium star transfers mass to a companion that is small in size.
+							Should the degree of stripping be the most extreme, we may expect the so-called ultra-stripped envelope SNe,
+							in which the ejecta mass and nickel mass are on the order of 0.1 and 0.01 solar mass, respectively.<br>
+							<br>
+							The figure on the right shows the light curve and spectra of SN2019dge, an ultra-stripped SN discovered by ZTF. 
+							Early-time photometry reveals evidence of shock cooling from an extended helium-rich envelope located close to the progenitor. 
+							Early-time helium line emission and subsequent spectra show signatures of interaction with helium-rich circumstellar material.
+							</p>
 					</div>
 					<div class="6u 12u$(small)">
 						<div class="image fit">
 							<img src="../images/swiftearlyia.jpg" alt="Pic 01" />
-							<p>
-							</p>
+						</div>
+						<div class="image fit">
+							<img src="../images/sn2019dge.jpg" alt="Pic 02" />
 						</div>
 					</div>
 					
 				</div>
 				
 				<hr class="major" />
-				<h2>Toward super-critically accreting stellar mass black holes: an analytical model</h2>	
+				<div id="ulx_model"><h2>Toward super-critically accreting stellar mass black holes: an analytical model</h2></div>
 				<div class="row">
 					<div class="6u 12u$(small)">
 							<p>Ultraluminous X-ray sources (ULXs) are off-nuclear accreting X-ray sources in nearby galaxies with 
@@ -87,7 +182,7 @@
 				</div>
 				
 				<hr class="major" />
-				<h2>Evolution of Primordial Disks Around Young Stars observed by the IN-SYNC project</h2>	
+				<div id="insync"><h2>Evolution of Primordial Disks Around Young Stars observed by the IN-SYNC project</h2></div>
 				<div class="row">
 					<div class="6u 12u$(small)">
 							<p>This study aims to address issues related to gas-rich optically-thick primordial disk evolution in three clusters 
@@ -123,7 +218,7 @@
 				</div>
 				
 				<hr class="major" />
-				<h2 id="content">Mira variables from LAMOST spectroscopic survey</h2>
+				<div id="mira"><h2 id="content">Mira variables from LAMOST spectroscopic survey</h2></div>
 				<div class="row">
 					<div class="6u 12u$(small)">
 							<p>Mira stars are a class of long period variables with periods in excess of 80 days that coincide with the final stellar evolutionary phase of low- to intermediate-mass (1–8 M⊙) stars before the envelope ejection phase. Because they are visible beyond the Local Group, and their distances can be roughly determined by their period-luminosity relationship, Miras have long been used as tracers of many astrophysical problems. For example, the picture of their chemical composition and spatial distribution can help to probe the structure and evolution of the Milky Way Galaxy (MWG). Therefore, the more Miras we know, the better we understand the MWG.</p>
@@ -145,7 +240,7 @@
 				</div>
 				
 				<hr class="major" />			
-				<h2 id="elements">Searching for quasars behind the Andromeda Galaxy with PTF</h2>
+				<div id = "qso_m31"><h2 id="elements">Searching for quasars behind the Andromeda Galaxy with PTF</h2></div>
 				<div class="row">
 					<div class="6u 12u$(small)">
 							<p>Quasars are energetic supermassive black holes in the centers of distant galaxies. By accreting gas from the host galaxy, a quasar gives off huge amounts of energy, and is hundreds times brighter than the sum of all stars in the galaxy. The Andromeda Galaxy, also known as M31, is the nearest large spiral galaxy to the Milky Way, and as such has been an ideal laboratory to investigate many astronomical problems. Quasars behind M31 are difficult to be identified because of the high stellar surface densityn, yet they are powerful beacons to probe the interstellar medium (ISM) of M31 via metal absorption line systems in their spectra.</p>

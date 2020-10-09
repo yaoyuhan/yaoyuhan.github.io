@@ -14,19 +14,90 @@
    		<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">	
     </head>
     
+   <style>    
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #5385c1;
+  padding: 0.5em 1.25em;
+    float: right;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: -2px 10px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: #515151;
+  padding: -2px 5px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0px;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  color: #515151;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.0);
+  z-index: 1;
+ }
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+</style>
+
+    
     <body class="subpage">
         <!-- Header -->
 			<header id="header">
 				<div class="inner">
-					<nav id="nav">
+<div class="navbar">
 						<a href="../index.html">Home</a>
 						<a href="research.html">Research</a>
 						<a href="talks.html">Talks</a>
 						<a href="publications.html">Publications</a>
-					</nav>
-					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
-				</div>
-			</header>
+					</div>			
+
+</div>
+</header>
 	
 		<!-- Main -->
 		<section id="main" class="wrapper">
@@ -43,13 +114,13 @@
 				5. <span style="font-weight:bold">Yao, Y.</span>, De, K., Kasliwal, M. M., et al. 2020,</br>
 					&nbsp&nbsp&nbsp
 					<a href = "https://iopscience.iop.org/article/10.3847/1538-4357/abaa3d" style="color:#515151">
-					SN2019dge: a Helium-rich Ultra-Stripped Envelope Supernova</a>, ApJ, 900, 1
+					SN2019dge: a Helium-rich Ultra-Stripped Envelope Supernova</a>, ApJ, 900, 46
 					(arXiv: <a href="https://arxiv.org/abs/2005.12922" style="color:#515151">2005.12922</a>)
 					</br>
 				4. <span style="font-weight:bold">Yao, Y.</span>, Miller, A. A., Kulkarni, S. R., et al. 2019,</br>
 					&nbsp&nbsp&nbsp
 					<a href = "https://doi.org/10.3847/1538-4357/ab4cf5" style="color:#515151">
-					ZTF Early Observations of Type Ia Supernovae. I. Properties of the 2018 Sample</a>, ApJ, 886, 2
+					ZTF Early Observations of Type Ia Supernovae. I. Properties of the 2018 Sample</a>, ApJ, 886, 152
 					(arXiv: <a href="https://arxiv.org/abs/1910.02967" style="color:#515151">1910.02967</a>)
 					</br>
 				3.   <span style="font-weight:bold">Yao, Y.</span>, Feng, H., 2019,</br>
@@ -80,22 +151,24 @@
 					Shock Cooling Emission from Extended Material Revisited, submitted
 					(arXiv: <a href="https://arxiv.org/abs/2007.08543" style="color:#515151">2007.08543</a>)
 					</br>
-				4. Miller, A. A., Magee, M. R., Polin A., Maguire K., Zimmerman E., <span style="font-weight:bold">Yao, Y.</span>, et al. 2020,</br>
+				4. Bulla, M., Miller, A. A., <span style="font-weight:bold">Yao, Y.</span>, et al. 2020, </br>
 					&nbsp&nbsp&nbsp
-					<a href = "https://iopscience.iop.org/article/10.3847/1538-4357/ab9e05" style="color:#515151">
-					The Spectacular Ultraviolet Flash From the Peculiar Type Ia Supernova 2019yvq</a>, ApJ, 898, 1
-					(arXiv: <a href="https://arxiv.org/abs/2005.05972" style="color:#515151">2005.05972</a>),
-					[<a href="https://www.ztf.caltech.edu/news/15" style="color:#515151;font-family:Times">ZTF Press</a>]
-					</br>
-				3. Bulla, M., Miller, A. A., <span style="font-weight:bold">Yao, Y.</span>, et al. 2020, </br>
-					&nbsp&nbsp&nbsp
-					ZTF Early Observations of Type Ia Supernovae III: Early-Time Colors as a Test for Explosion Models and Multiple Populations, submitted
+					<a href = "https://iopscience.iop.org/article/10.3847/1538-4357/abb13c" style="color:#515151">
+					ZTF Early Observations of Type Ia Supernovae III: Early-Time Colors as a Test for Explosion Models and Multiple Populations</a>, ApJ, 902, 48
 					(arXiv: <a href="https://arxiv.org/abs/2001.00587" style="color:#515151">2001.00587</a>)
 					</br>
-				2. Miller, A. A., <span style="font-weight:bold">Yao, Y.</span>, Bulla, M., et al. 2020, </br>
+				3. Miller, A. A., <span style="font-weight:bold">Yao, Y.</span>, Bulla, M., et al. 2020, </br>
 					&nbsp&nbsp&nbsp
-					ZTF Early Observations of Type Ia Supernovae II: First Light, the Initial Rise, and Time to Reach Maximum Brightness, submitted
+					<a href="https://iopscience.iop.org/article/10.3847/1538-4357/abb13b" style="color:#515151">
+					ZTF Early Observations of Type Ia Supernovae II: First Light, the Initial Rise, and Time to Reach Maximum Brightness</a>, ApJ, 902, 47
 					(arXiv: <a href="https://arxiv.org/abs/2001.00598" style="color:#515151">2001.00598</a>)
+					</br>
+				2. Miller, A. A., Magee, M. R., Polin A., Maguire K., Zimmerman E., <span style="font-weight:bold">Yao, Y.</span>, et al. 2020,</br>
+					&nbsp&nbsp&nbsp
+					<a href = "https://iopscience.iop.org/article/10.3847/1538-4357/ab9e05" style="color:#515151">
+					The Spectacular Ultraviolet Flash From the Peculiar Type Ia Supernova 2019yvq</a>, ApJ, 898, 56
+					(arXiv: <a href="https://arxiv.org/abs/2005.05972" style="color:#515151">2005.05972</a>),
+					[<a href="https://www.ztf.caltech.edu/news/15" style="color:#515151;font-family:Times">ZTF Press</a>]
 					</br>
 				1. Zhou, Y., Feng, H., Ho, L. C., <span style="font-weight:bold">Yao, Y.</span>, 2019,</br>
 					&nbsp&nbsp&nbsp
