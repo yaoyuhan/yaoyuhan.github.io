@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Kareem El-Badry"
-description              : &description "Astrophysicist at UC Berkeley"
+description              : &description "Astrophysicist"
 url                      : https://kareemelbadry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kareemelbadry/kareemelbadry.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kareem El-Badry"
   avatar           : "profile.png"
-  bio              : "Astrophysicist at UC Berkeley."
-  location         : "Berkeley, CA"
+  bio              : "Astrophysicist"
+  location         : "Cambridge, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BjYcMqMAAAAJ&hl=en"
-  email            : "kelbadry@berkeley.edu"
+  email            : "kelbadry@fas.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
