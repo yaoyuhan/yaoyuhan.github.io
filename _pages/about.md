@@ -8,15 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in the UC Berkeley [Department of Astronomy](https://astro.berkeley.edu/) (graduating May 2021). I use computer simulations, order-of-magnitude physics, and data from telescopes big and small to try to better understand how the universe works. 
+I'm an astrophysicist at the [Institute for Theory and Computation](https://itc.cfa.harvard.edu/) in the [Harvard/Smithsonian Center for Astrophysics](https://www.cfa.harvard.edu/) and a Junior Fellow in the Harvard [Society of Fellows](https://socfell.fas.harvard.edu/about). I also hold a recurring appointment at the [Max Planck Institute for Astronomy](https://www.mpia.de/en) in Heidelberg.
 
-I'm interested in binary stars, Milky Way stellar populations, and galaxy formation. More generally, I like exploring astronomical datasets and developing new methods to extract information from data. My advisors are [Eliot Quataert](http://w.astro.berkeley.edu/~eliot/) and [Dan Weisz](http://dweisz.github.io/). I also work extensively with [Hans-Walter Rix](http://www.mpia.de/rix).
+My research is focused on binary stars. I use a combination of large-scale surveys, targeted observations of individual objects, and theoretical stellar evolution calculations to better understand how binaries form, evolved, and interact with their surroundings. Beyond binaries, I am interested in Milky Way stellar populations, galaxy formation, and statistical astronomy.  Most generally, I like exploring astronomical datasets and developing new methods to extract information from data. 
 
-I was an undergrad at [Yale University](https://astronomy.yale.edu/), where I worked with [Marla Geha](http://www.astro.yale.edu/mgeha/). I graduated with a B.S. in astrophysics in 2016. 
-
+I grew up in Roseburg, Oregon. I was an undergraduate at [Yale University](https://astronomy.yale.edu/) (B.S., astrophysics, 2016) and a graduate student at [UC Berkeley](https://astro.berkeley.edu/) (Ph.D., astrophysics, 2021). I moved to Harvard in 2021. Besides astronomy, I like food, running, hiking and cycling, playing chess, and memes.
 
 Contact Me
 ======
-email: kelbadry@berkeley.edu \\
-skype: kareemelbadry1 \\
-office: 407 Campbell Hall, Berkeley, CA 94720
+email: kelbadry@fas.harvard.edu \\
