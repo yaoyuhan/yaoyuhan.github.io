@@ -16,4 +16,4 @@ I grew up in Roseburg, Oregon. I was an undergraduate at [Yale University](https
 
 Contact Me
 ======
-kelbadry@fas.harvard.edu 
+kareem.el-badry@cfa.harvard.edu 
