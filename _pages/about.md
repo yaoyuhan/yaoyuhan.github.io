@@ -14,6 +14,8 @@ My research is focused on binary stars. I use a combination of large-scale surve
 
 I grew up in Roseburg, Oregon. I was an undergraduate at [Yale University](https://astronomy.yale.edu/) (B.S., astrophysics, 2016) and a graduate student at [UC Berkeley](https://astro.berkeley.edu/) (Ph.D., astrophysics, 2021). I moved to Harvard in 2021. Besides astronomy, I like food, running, hiking and cycling, playing chess, and memes.
 
+I am happy to talk anytime with Harvard grads and undergrads interested in working on a research project.
+
 Contact Me
 ======
 kareem.el-badry@cfa.harvard.edu 
