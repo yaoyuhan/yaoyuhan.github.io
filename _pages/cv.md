@@ -1,3 +1,11 @@
+---
+layout: archive
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 <h2>Employment</h2>  
 * Junior Fellow, Harvard Society of Fellows, 2021-
 * ITC Fellow, Institute for Theory and Computation, 2021-
