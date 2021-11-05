@@ -1,5 +1,19 @@
 ---
 layout: archive
+title: "Employment"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+* Junior Fellow, Harvard Society of Fellows, 2021-
+* ITC Fellow, Institute for Theory and Computation, 2021-
+* Fellow, Max Planck Institute for Astronomy, Heidelberg, 2021-
+
+
+---
+layout: archive
 title: "Education"
 permalink: /cv/
 author_profile: true
