@@ -13,7 +13,7 @@ redirect_from:
 
 
 ---
-title: "Education"
+<h2>Education</h2>  
 ---
 
 * Ph.D in Astrophysics, UC Berkeley, 2021 
