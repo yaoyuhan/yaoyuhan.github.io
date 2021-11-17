@@ -13,7 +13,6 @@ redirect_from:
 * Fellow, Max Planck Institute for Astronomy, Heidelberg, 2021-
 
 
-
 <h2>Education</h2>  
 * Ph.D, Astrophysics, UC Berkeley, 2021 
 * M.S, Astrophysics, UC Berkeley, 2018
