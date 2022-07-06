@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Public Code and Data"
-permalink: /press/
+permalink: /code_data/
 author_profile: true
 ---
 
