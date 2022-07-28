@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
-name                     : &name "Yuhan Yao"
+name                     : &name "Yuhan Yao (姚雨含)"
 description              : &description "Astrophysicist"
 url                      : https://yaoyuhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
