@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-* First author papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/iAGbJO3XR5GflQwi6SMwRw) 
-* All papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/C4C4GsokRuGh8iqv2eRaGg)
+* First author papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/C4C4GsokRuGh8iqv2eRaGg) 
+* All papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/iAGbJO3XR5GflQwi6SMwRw)
 
 <h2>First Author Journal Submissions</h2>  
 * [1] Yao, Y., Lu, W., Guolo, M., et al. 2022, [arxiv:2206.12713](https://arxiv.org/abs/2206.12713) The Tidal Disruption Event AT2021ehb: Evidence of Relativistic Disk Reflection, and Rapid Evolution of the Disk—Corona System
