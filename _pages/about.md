@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fouth-year graduate student in Astronomy at  [Caltech](https://www.caltech.edu/). My advisors are [Shri Kulkarni](https://sites.astro.caltech.edu/~srk/) and [Fiona Harrison](http://www.srl.caltech.edu/personnel/fiona/).
+I'm a fifth-year graduate student in Astronomy at  [Caltech](https://www.caltech.edu/). My advisors are [Shri Kulkarni](https://sites.astro.caltech.edu/~srk/) and [Fiona Harrison](http://www.srl.caltech.edu/personnel/fiona/).
 
 My research is focused on time domain astronomy and observational high energy astrophysics. I am part of the [Zwicky Transient Facility](http://www.ptf.caltech.edu/ztf) (ZTF) and [NuSTAR](https://heag.caltech.edu/) teams. In the past, I have worked on supernovae, X-ray binaries, and stars. For my PhD thesis, I explore the dynamic sky using ZTF, Keck and Palomar telescopes, and many high energy X-ray missions ([XMM-Newton](https://www.cosmos.esa.int/web/xmm-newton/), [Swift](https://swift.gsfc.nasa.gov/), [NuSTAR](https://www.nustar.caltech.edu/),    [Chandra](https://chandra.harvard.edu/), [NICER](https://heasarc.gsfc.nasa.gov/docs/nicer/),    [SRG](https://en.wikipedia.org/wiki/Spektr-RG)), with the goal of understanding the accretion and jet physics of tidal disruption events (TDEs) and stellar explosions with intensive end-of-life mass-loss.
 
