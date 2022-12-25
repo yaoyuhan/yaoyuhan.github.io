@@ -5,7 +5,7 @@ permalink: /press/
 author_profile: true
 ---
 
-<h2>AT2021ehb (Tidal Disruption Event with Evidence of Corona Formation and Disk Reflection)</h2>  
+<h2>AT2021ehb (Tidal Disruption Event with Hard X-rays)</h2>  
 * [NASA Gets Unusually Close Glimpse of Black Hole Snacking on Star (NASA-JPL News)](https://www.jpl.nasa.gov/news/nasa-gets-unusually-close-glimpse-of-black-hole-snacking-on-star)
 * [NASA gets "unusually close" look at a black hole devouring a star (yahoo!life)](https://www.yahoo.com/lifestyle/nasa-gets-unusually-close-look-133319136.html)
 
