@@ -8,6 +8,9 @@ author_profile: true
 * First author papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/C4C4GsokRuGh8iqv2eRaGg) 
 * All papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/iAGbJO3XR5GflQwi6SMwRw)
 
+<h2>First Author Journal Submission</h2> 
+* [1] Yao, Y., Ravi, V., Gezari, S., et al. 2023, ApJ, 937, [arxiv:2303.06523](https://arxiv.org/abs/2303.06523) Tidal Disruption Event Demographics with the Zwicky Transient Facility: Volumetric Rates, Luminosity Function, and Implications for the Local Black Hole Mass Function
+
 <h2>First Author Journal Publications</h2> 
 * [9] Yao, Y., Lu, W., Guolo, M., et al. 2022, ApJ, 937, [8](https://iopscience.iop.org/article/10.3847/1538-4357/ac898a) The Tidal Disruption Event AT2021ehb: Evidence of Relativistic Disk Reflection, and Rapid Evolution of the Disk—Corona System
 * [8] Yao, Y., Ho, Y. Q. A., Medvedev, P. et al. 2022, ApJ, 934, [104](https://iopscience.iop.org/article/10.3847/1538-4357/ac7a41) The X-ray and Radio Loud Fast Blue Optical Transient AT2020mrf: Implications for an Emerging Class of Engine-driven Massive Star Explosions 
