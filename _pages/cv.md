@@ -11,8 +11,8 @@ redirect_from:
 * Miller Fellow, UC Berkeley, 2023-
 
 <h2>Education</h2>  
-* Ph.D, Astrophysics, Caltech, 2023 
-    Thesis: [High Energy Transients Powered by Black Holes](https://thesis.library.caltech.edu/15204/)
+* Ph.D, Astrophysics, Caltech, 2023 <br/>
+    Thesis: [High Energy Transients Powered by Black Holes](https://thesis.library.caltech.edu/15204/) <br/>
     Advisors: Prof. Shri Kulkarni, Prof. Fiona Harrison
 * M.S, Astrophysics, Caltech, 2020
 * B.S, Astronomy, Peking University, 2018
