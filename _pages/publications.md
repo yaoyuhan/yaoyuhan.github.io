@@ -9,7 +9,8 @@ author_profile: true
 * All papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/iAGbJO3XR5GflQwi6SMwRw)
 
 <h2>First Author Journal Submission</h2> 
-* [1] Yao, Y., Ravi, V., Gezari, S., et al. [arxiv:2303.06523](https://arxiv.org/abs/2303.06523) Tidal Disruption Event Demographics with the Zwicky Transient Facility: Volumetric Rates, Luminosity Function, and Implications for the Local Black Hole Mass Function
+* [2] Yao, Y., Lu, W., Harrison, F., et al. [arxiv:2308.09834](https://arxiv.org/abs/2308.09834) The On-axis Jetted Tidal Disruption Event AT2022cmc: X-ray Observations and Broadband Spectral Modeling
+* [1] Yao, Y., Ravi, V., Gezari, S., et al. 2023, ApJL accepted [arxiv:2303.06523](https://arxiv.org/abs/2303.06523) Tidal Disruption Event Demographics with the Zwicky Transient Facility: Volumetric Rates, Luminosity Function, and Implications for the Local Black Hole Mass Function
 
 <h2>First Author Journal Publications</h2> 
 * [9] Yao, Y., Lu, W., Guolo, M., et al. 2022, ApJ, 937, [8](https://iopscience.iop.org/article/10.3847/1538-4357/ac898a) The Tidal Disruption Event AT2021ehb: Evidence of Relativistic Disk Reflection, and Rapid Evolution of the Disk—Corona System
