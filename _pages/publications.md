@@ -8,10 +8,8 @@ author_profile: true
 * First author papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/C4C4GsokRuGh8iqv2eRaGg) 
 * All papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/iAGbJO3XR5GflQwi6SMwRw)
 
-<h2>First Author Journal Submission</h2> 
-* [1] Yao, Y., Lu, W., Harrison, F., et al. [arxiv:2308.09834](https://arxiv.org/abs/2308.09834) The On-axis Jetted Tidal Disruption Event AT2022cmc: X-ray Observations and Broadband Spectral Modeling
-
 <h2>First Author Journal Publications</h2> 
+* [11] Yao, Y., Lu, W., Harrison, F., et al. 2024, ApJ, 965, [39](https://iopscience.iop.org/article/10.3847/1538-4357/ad2b6b) The On-axis Jetted Tidal Disruption Event AT2022cmc: X-ray Observations and Broadband Spectral Modeling
 * [10] Yao, Y., Ravi, V., Gezari, S., et al. 2023, ApJL, 955, [L6](https://iopscience.iop.org/article/10.3847/2041-8213/acf216) Tidal Disruption Event Demographics with the Zwicky Transient Facility: Volumetric Rates, Luminosity Function, and Implications for the Local Black Hole Mass Function
 * [9] Yao, Y., Lu, W., Guolo, M., et al. 2022, ApJ, 937, [8](https://iopscience.iop.org/article/10.3847/1538-4357/ac898a) The Tidal Disruption Event AT2021ehb: Evidence of Relativistic Disk Reflection, and Rapid Evolution of the Disk—Corona System
 * [8] Yao, Y., Ho, Y. Q. A., Medvedev, P. et al. 2022, ApJ, 934, [104](https://iopscience.iop.org/article/10.3847/1538-4357/ac7a41) The X-ray and Radio Loud Fast Blue Optical Transient AT2020mrf: Implications for an Emerging Class of Engine-driven Massive Star Explosions 
