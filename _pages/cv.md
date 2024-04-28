@@ -17,6 +17,6 @@ redirect_from:
 * M.S, Astrophysics, Caltech, 2020
 * B.S, Astronomy, Peking University, 2018
 
-<span style="color:#5DADE2">[My full CV](https://yaoyuhan.github.io/files/CV_YuhanYao.pdf)</span> (Last updated: Feb 2024)
+<span style="color:#5DADE2">[My full CV](https://yaoyuhan.github.io/files/CV_YuhanYao.pdf)</span> (Last updated: May 2024)
 
 
