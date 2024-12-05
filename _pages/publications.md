@@ -9,6 +9,7 @@ author_profile: true
 * All papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/iAGbJO3XR5GflQwi6SMwRw)
 
 <h2>First Author Journal Publications</h2> 
+* [12] Yao, Y., Guolo, M., Tombesi, F., et al., 2024, ApJ, 976, [1](https://iopscience.iop.org/article/10.3847/1538-4357/ad7d93) Subrelativistic Outflow and Hours-timescale Large-amplitude X-Ray Dips during Super-Eddington Accretion onto a Low-mass Massive Black Hole in the Tidal Disruption Event AT2022lri
 * [11] Yao, Y., Lu, W., Harrison, F., et al. 2024, ApJ, 965, [39](https://iopscience.iop.org/article/10.3847/1538-4357/ad2b6b) The On-axis Jetted Tidal Disruption Event AT2022cmc: X-ray Observations and Broadband Spectral Modeling
 * [10] Yao, Y., Ravi, V., Gezari, S., et al. 2023, ApJL, 955, [L6](https://iopscience.iop.org/article/10.3847/2041-8213/acf216) Tidal Disruption Event Demographics with the Zwicky Transient Facility: Volumetric Rates, Luminosity Function, and Implications for the Local Black Hole Mass Function
 * [9] Yao, Y., Lu, W., Guolo, M., et al. 2022, ApJ, 937, [8](https://iopscience.iop.org/article/10.3847/1538-4357/ac898a) The Tidal Disruption Event AT2021ehb: Evidence of Relativistic Disk Reflection, and Rapid Evolution of the Disk—Corona System
