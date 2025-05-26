@@ -10,7 +10,7 @@ author_profile: true
 * [NASA’s Hubble Pinpoints Roaming Massive Black Hole (NASA News)](https://science.nasa.gov/missions/hubble/nasas-hubble-pinpoints-roaming-massive-black-hole/)
 
 <h2>Jetted TDE</h2> 
-* [NuSTAR Reveals Black Hole Shredding A Star (NuSTAR Story)(https://www.nustar.caltech.edu/news/nustar240821)
+* [NuSTAR Reveals Black Hole Shredding A Star (NuSTAR Story)](https://www.nustar.caltech.edu/news/nustar240821)
 
 <h2>Tidal Disruption Event with Hard X-rays</h2>  
 * [The Bizarre Behavior of Black Holes (Caltech Magazine)](https://magazine.caltech.edu/post/black-hole-week)
